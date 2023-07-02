@@ -1,0 +1,6 @@
+@media print {
+  .is-primary {
+    color: #df007b;
+    background: #dbd821;
+  }
+}

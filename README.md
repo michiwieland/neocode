@@ -1,2 +1,2 @@
-# neocode
+# michiwieland.dev
 Personal website
